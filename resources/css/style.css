@@ -399,6 +399,8 @@ input[type=submit]
 /*-------COMMENTS PAGE------*/
 
 .testimonals{
+    background-image: -webkit-linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(https://yazhinitheengineer.github.io/FoodFeast/resources/css/img/Omnifood Contents/back-customers.jpg);
+    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(https://yazhinitheengineer.github.io/FoodFeast/resources/css/img/Omnifood Contents/back-customers.jpg);
     background-position: center;
     background-size: cover;
     background-attachment: fixed;
