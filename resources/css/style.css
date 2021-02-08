@@ -94,8 +94,8 @@ h3 {
 /*-------FRONT PAGE------*/
 
 header{
-    background-image: -webkit-linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('https://yazhinitheengineer.github.io/FoodFeast/resources/css/img/Omnifood Contents/hero.jpg');
-    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url('https://yazhinitheengineer.github.io/FoodFeast/resources/css/img/Omnifood Contents/hero.jpg');
+    background-image: -webkit-linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(https://yazhinitheengineer.github.io/FoodFeast/resources/css/img/Omnifood Contents/hero.jpg);
+    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(https://yazhinitheengineer.github.io/FoodFeast/resources/css/img/Omnifood Contents/hero.jpg);
     height: 100vh;
     background-position: center;
     background-size: cover;
